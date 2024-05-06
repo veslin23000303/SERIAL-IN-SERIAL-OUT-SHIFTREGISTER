@@ -34,8 +34,8 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 **PROGRAM**
 
 /* 
-Developed by:N.NAVYA SREE
-RegisterNumber:212223040138
+Developed by:VESLIN ANISH A
+RegisterNumber:212223240175
 
 */
 ```
@@ -55,11 +55,13 @@ endmodule
 ```
 **RTL LOGIC FOR SISO Shift Register**
 
-![image](https://github.com/23004513/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/138973069/c8ee160b-0e98-4ef3-9f1e-ecc1fa089f01)
+![WhatsApp Image 2024-05-06 at 14 57 32_f4266290](https://github.com/veslin23000303/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/151148539/5441a179-65fe-48c6-b551-0f6f9077837e)
+
 
 **TIMING DIGRAMS FOR SISO Shift Register**
 
-![image](https://github.com/23004513/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/138973069/84df2e71-7d10-49a5-957c-9b5bf5c43c64)
+![WhatsApp Image 2024-05-06 at 14 57 12_7369524e](https://github.com/veslin23000303/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/151148539/226d22aa-37e0-46d7-a232-32cd88f843eb)
+
 
 **RESULTS**
 
